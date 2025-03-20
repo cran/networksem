@@ -1,10 +1,13 @@
-2d5bc49c4bad813696d407df6d30c7fb *DESCRIPTION
+a7b83f5b2812b91b8986f9ea9b9c6377 *DESCRIPTION
 66a803b311d87b34ed9d759cdc295e20 *NAMESPACE
+b96c88ff3833838509af36a93ab80ec9 *R/friend_data.R
 da1f9d2c76faab1a449c6704d54b1d3c *R/netsem_summary.R
 4dd07e313518f284e91973cc1f6f333c *R/networkFun.R
 0d165d2ff9b7221f39517281b2981807 *R/networkFun_LSM.R
-c52a0f5d02a3323cfe2ca93e55ae5d55 *R/networkFun_edge.R
-d12a914be6db18f79cf3339673ed3905 *R/networkFun_edge_LSM.R
+692ee6161c101cfc8d71618bd32f0c66 *R/networkFun_edge.R
+becbb75261b8ad6b8583b1a19690ea34 *R/networkFun_edge_LSM.R
+ec07535fd22b66d89849cc88868b37bd *data/friend_data.rda
+314c595882ec6f0d4a85738013211675 *man/friend_data.Rd
 fe0a26c0ecd54adc204e443e7852ea0d *man/path.networksem.Rd
 4353da5fe0167c5e6be5e67892054064 *man/sem.net.Rd
 264980330575bdcab7a484701e2c4fcf *man/sem.net.addvar.Rd
