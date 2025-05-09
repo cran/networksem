@@ -1,7 +1,7 @@
 Package: networksem
 Type: Package
 Title: Network Structural Equation Modeling
-Version: 0.3
+Version: 0.4
 Authors@R: 
   c(person(given = "Zhiyong",
            family = "Zhang",
@@ -20,8 +20,9 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2025-03-20 19:04:31 UTC; ziqianxu
-Author: Zhiyong Zhang [aut, cre] (<https://orcid.org/0000-0003-0590-2196>),
+Packaged: 2025-05-09 14:11:15 UTC; ziqianxu
+Author: Zhiyong Zhang [aut, cre] (ORCID:
+    <https://orcid.org/0000-0003-0590-2196>),
   Ziqian Xu [aut]
 Repository: CRAN
-Date/Publication: 2025-03-20 19:40:02 UTC
+Date/Publication: 2025-05-09 14:50:10 UTC
